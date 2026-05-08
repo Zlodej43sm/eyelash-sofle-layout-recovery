@@ -56,13 +56,13 @@ layers:
   - Ctl+$$mdi:keyboard-space$$
   - {t: '[', s: '{'}
   - {t: LAYER1, h: toggle}
-  - $$mdi:apple-keyboard-option$$
   - LGUI
+  - $$mdi:apple-keyboard-option$$
   - $$mdi:keyboard-space$$
   - CONTEXT MENU
   - {t: '$$mdi:backspace$$', type: backspace}
-  - $$mdi:apple-keyboard-control$$
   - $$mdi:apple-keyboard-option$$
+  - $$mdi:apple-keyboard-control$$
   - {t: '=', s: +}
   - {t: ']', s: '}'}
   LAYER1:
